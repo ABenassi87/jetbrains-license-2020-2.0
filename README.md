@@ -2,7 +2,7 @@
 JetBrains trial restart 2020.2 (Windows) and 2020.1 (MacOs, Linux). Products: IntelliJIdea, PhpStorm, PyCharm, WebStorm, GoLand, CLion, DataGrip, RubyMine, AppCode, Rider.
 ### Rights disclaimer: this isn't a hacking, we're only modifying our OS files!
 #### Fork this repo, it may be deleted due to DMCA like v1.0 repo.
-#### If you wanna to do something pleasant for me plz [star my main project](https://github.com/imgVOID/pinlery) ;)
+#### If you wanna to do something pleasant for me plz [star my main project repo](https://github.com/imgVOID/pinlery) ;)
 ## Contains:
 #### 2020.2 Windows .bat script by Greg Sparrow
 
