@@ -10,6 +10,4 @@ JetBrains trial restart 2020.2 (Windows) and 2020.1 (MacOs, Linux). Products: In
 
 #### 2020.2 Windows manual instructions
 
-#### 2020.1 MacOS, Linux legendary scripts by pengzhile
-
 ## Good luck! <3 
